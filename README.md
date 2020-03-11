@@ -86,6 +86,7 @@ Workshop development is being coordinated by [Barbara Vreede](https://github.com
 
 The results of a brainstorm on 6 May 2019 at the Utrecht University Library is [on these slides](https://docs.google.com/presentation/d/1MIPsWt08Kixe1TZfPeM8LvJv7p2es7lZ4Ui88FYbl5Y/edit?usp=sharing).
 
+Here is a change!
 
 ## External resources and developer inspiration
 
